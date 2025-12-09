@@ -1,48 +1,69 @@
-# 💼 Мои лучшие проекты
+---
 
-Добро пожаловать! В этом репозитории я собираю **свои лучшие проекты**, которые демонстрируют мой опыт в программировании, архитектуре ПО и разработке собственных продуктов. Вы можете изучить их, чтобы оценить мой профессиональный уровень и подход к решению сложных задач.
+# 💼 My Best Projects
+
+Welcome!
+This repository highlights my best work — projects that demonstrate my experience in backend engineering, high-load architecture, automation, and building complete commercial products.
 
 ---
 
-## 🧑‍💻 Немного обо мне
+## 🧑‍💻 About Me
 
-Я работал как **Software Engineer** в разных компаниях, включая одну из лучших — **1win**, где получил ценный опыт работы с высоконагруженными системами.
+I’ve worked as a **Software Engineer** in several companies, including one of the strongest — **1win**, where I gained hands-on experience with **high-load**, **fault-tolerant systems**.
 
-Но моя деятельность не ограничивается только наймом — я также **разрабатываю и запускаю собственные продукты**. Один из таких проектов стал коммерчески успешным: более **десятков пользователей приобрели доступ**, и в **один из дней прибыль составила более $2000 с одного аккаунта**.
+Beyond full-time roles, I also **build and launch** my own products.
+One of them became commercially successful: **dozens of users purchased access**, and on one day it generated over **$7,000** from a single account.
 
-👉 [[Ссылка на проект]](https://github.com/Davidkovel/Mexc_Arbitrage_Crypto/tree/developer)(#)
-
----
-
-## 🚀 Пример успешного проекта
-
-Один из самых технологически сложных проектов:
-
-- Использовалась **микросервисная архитектура**.
-- Один из API работал через **WebSocket** (что стало большим преимуществом).
-- Второй API имел **ограничение 200 запросов в минуту**.
-- Благодаря **Kubernetes**, грамотному управлению нагрузкой и архитектуре я смог эффективно обойти это ограничение.
+👉 [[Project link]](https://github.com/Davidkovel/Mexc_Arbitrage_Crypto/tree/developer)(#)
 
 ---
 
-## 🛠 Другие интересные проекты
+## 🚀 Example of a Successful High-Tech Project
 
-- 📤 **OLX автопостинг** — Софт, который без покупки рекламы позволял объявлениям стабильно находиться на первом месте в списке у всех пользователей
+One of the most technically advanced systems I built included:
 
-- 🛡️ **Ратник** - Разработка специализированного ПО
-
--🤖 **Также боты для арбитража трафика** - Автоматизированные скрипты для работы с трафиком
-
-- 💰 **Софты для крипто проектов аирдроп/ретродроп** - Писал софты на который на всех моих мультиаккаунтах работали сами и выполняли активность без меня, чтобы получить значительно больший доход, чем на 1 аккаунте (пример - написанный софт под разные тапалки телеграма вроде хомяка, 1 из проектов, который хорошо получили, был $Dogs от Дурова)
----
-
-## 📫 Связь
-
-Если вы ищете разработчика, способного справляться с проектами любой сложности — пишите:
-
-📩 **Telegram**: [@David_k26](https://t.me/David_k26)  - если не отвечу - продублируйте. Могу где-то пропустить. Стараюсь отвечать сразу, но не всегда получается(
-📢 **Telegram-канал**: [@arbitrage_proro](https://t.me/arbitrage_proro) — недавно запущенный канал, где я делюсь своими проектами, софтом и результатами. В ближайшее время начну активно его вести.
+* **Microservice architecture**.
+* **gRPC** for fast service-to-service communication
+* **WebSocket-based API** providing real-time advantages
+* A second API with a strict limit of **200 requests per minute**
+* **Kubernetes** for scaling, load balancing, and orchestrating services
+* Custom solutions that allowed the system to effectively bypass API limitations while maintaining stability and performance
 
 ---
 
-> ⚠️ Список проектов и кейсов будет регулярно пополняться
+## 📈 Products Running Under Constant Load
+
+I develop products that are used by **over 500 unique users daily**. Together with an arbitrage team, I create and maintain high-load websites and software, ensuring **stability, scalability, and fault tolerance**.
+
+<img width="1602" height="966" alt="sta" src="https://github.com/user-attachments/assets/d0744db0-391a-4e59-b737-2214ded412d2" />
+
+I also maintain a standalone product with 100+ active users — an arbitrage parser that retrieves data from multiple exchanges with minimal latency, supported by a suite of high-speed tools I developed specifically for arbitrage operations.
+
+🔗 **Link**: (t.me/xgeniuspro)
+
+---
+
+## 🛠 Other Notable Projects
+
+* 📤 **OLX Auto-Posting** — software that allowed listings to stay at the top of search results without paid promotion.
+* 🛡️ **Ratnik** — Specialized security-oriented tooling
+* 🤖 **Traffic Arbitrage Bots** — Automated systems for traffic processing
+* 💰 **Software for Crypto Airdrop/Retrodrop Projects** — Tools that handled all activity across dozens of multi-accounts automatically, dramatically increasing earnings
+(including tools for Telegram tap-projects like Hamster, and notably $Doge by Durov)
+
+---
+
+## 📫 Contact
+
+If you're looking for a developer capable of engineering systems at any level of complexity — feel free to reach out:
+
+📩 **Telegram**: [@David_k26](https://t.me/David_k26)
+📢 **Telegram Channel**: [@arbitrage_proro](https://t.me/arbitrage_proro) — 
+A newly launched channel where I share my tools, projects, and results. Active posting starts soon.
+
+---
+
+> ⚠️ This list of projects and case studies is regularly updated.
+
+---
+
